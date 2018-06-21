@@ -1,4 +1,4 @@
-Today here are the tasks I'd like to complete:
+Today's To-Do:
 
 - [ ] Write for 40 minutes
 - [ ] Exercise
@@ -6,6 +6,12 @@ Today here are the tasks I'd like to complete:
 - [ ] Check Feedly
 - [ ] Meal planning for tomorrow
 
+Reminders: 
+
+- [ ]
+
 I also did:
 
 - [ ]
+
+Daily Rambling: 
